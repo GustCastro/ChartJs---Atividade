@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: row;
+  background-color: rgb(238, 169, 246);
+}
+#myChart {
+  position: relative;
+  height: 250px;
+  width: 80%;
+  margin-top: 120px;
+}
+#myChart2 {
+  position: relative;
+  height: 250px;
+  width: 80%;
+  margin-top: 120px;
+}
